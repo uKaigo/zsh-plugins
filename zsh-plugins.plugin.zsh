@@ -6,4 +6,4 @@ source $swd/plugins/vcs_info.zsh
 if [ ! -z $ZSH_PLUGINS_THEME ]; then
   source $swd/plugins/git.zsh
   source $swd/plugins/theme-and-appearence.zsh
-]
+fi
